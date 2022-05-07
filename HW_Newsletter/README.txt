@@ -1,0 +1,1 @@
+*****Edit DBconnect.php & NewsletterSend.php before use*****
